@@ -42,5 +42,16 @@
         ],
         "description": "Viking sticker",
         "price": 34.99
+    },
+    {
+        "id": "5",
+        "title": "test",
+        "image": "img/products/banana.svg",
+        "additionalImages": [
+            "https://placekitten.com/203/139",
+            "https://placekitten.com/204/139?2"
+        ],
+        "description": "test",
+        "price": 777.88
     }
 ]
